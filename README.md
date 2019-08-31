@@ -15,6 +15,11 @@ After you clone "Polymer Fetch Api Example" as an demo you need to install it wi
 
 ## Overview
 
+After install you need to run command yarn start to start the project.
+
+    yarn start
+
+
 #### In Source Code
 ![Untitled](https://user-images.githubusercontent.com/33189395/64028084-33f34c00-cb6c-11e9-970c-d2a9a29ddaac.png)
 
